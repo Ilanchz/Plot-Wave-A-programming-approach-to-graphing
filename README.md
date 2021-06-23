@@ -5,8 +5,8 @@ Independent value finder and Grapher (I-Grapher)
 Python program to convert input into python readable format and finding coordinates using Loops and "connecting the dots".
 Data density of each graphed curve directly proportional to the precision given by user. It is the difference between successive x values taken to find the Y-coordinates. High precision leads to error in computer with less processor speeds.
 
-
 How to Use:
+
 1.
 A. Enter the Explicit Functions into the text box and press enter or give "Execute". e.g sin(x) cos(x) tan(x) log(x^2+5x-x^3) xsin(x)
 B. Enter Functions in the form of (f1(x),f2(x)) (parametric form). e.g (cos(x),sin(x)) (x^2,x^3)
@@ -33,9 +33,9 @@ B. To cancel the implementation of a function while effects is ON, click on the 
 
 10. Dark Mode can be turned on and off for better User Interface
 11. Settings can be accessed to:
-	A. Change the backlight of canvas.
-	B. Change the Size of the given canvas.
-	C. To save Inputted memory in MySql local Database. (Optional)
+A. Change the backlight of canvas.
+B. Change the Size of the given canvas.
+C. To save Inputted memory in MySql local Database. (Optional)
 
 12. Use Help Button to Post Comments/Feedback/Bugs to me. Make sure Internet is connected. (Received via gmail)
 13. Make Sure Logo and The EXE file are on same folder>
