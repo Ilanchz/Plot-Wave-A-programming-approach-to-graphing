@@ -7,8 +7,8 @@ Data density of each graphed curve directly proportional to the precision given 
 
 How to Use:
 
-1.
-A. Enter the Explicit Functions into the text box and press enter or give "Execute". e.g sin(x) cos(x) tan(x) log(x^2+5x-x^3) xsin(x)
+
+1.A. Enter the Explicit Functions into the text box and press enter or give "Execute". e.g sin(x) cos(x) tan(x) log(x^2+5x-x^3) xsin(x)
 B. Enter Functions in the form of (f1(x),f2(x)) (parametric form). e.g (cos(x),sin(x)) (x^2,x^3)
 C. Enter Coordinate of a point to Drop a Dot and two coordinates to draw a line from point 1 to point 2.
 e.g, (3,4): Drops a red dot at (3,4)
@@ -27,15 +27,14 @@ e.g. (1,4),(-3,5),(5,-8),(0,3),(-9,-4)... On executing a line will be drawn from
 a. The search box allows to search comments (Simple Word Matching Process)
 b. FeedBack Entered is Emailed to Creater. (SMTP)
 
-9.
-A. Check the "Effect" box to see the on going progress of the potting process.
+9.A. Check the "Effect" box to see the on going progress of the potting process.
 B. To cancel the implementation of a function while effects is ON, click on the "X" button near the completition status bar.
 
 10. Dark Mode can be turned on and off for better User Interface
 11. Settings can be accessed to:
-A. Change the backlight of canvas.
-B. Change the Size of the given canvas.
-C. To save Inputted memory in MySql local Database. (Optional)
+  A. Change the backlight of canvas.
+  B. Change the Size of the given canvas.
+  C. To save Inputted memory in MySql local Database. (Optional)
 
 12. Use Help Button to Post Comments/Feedback/Bugs to me. Make sure Internet is connected. (Received via gmail)
 13. Make Sure Logo and The EXE file are on same folder>
