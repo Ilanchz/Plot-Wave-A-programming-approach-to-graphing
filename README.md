@@ -1,5 +1,5 @@
 I-Grapher
-(I-Grapher Version 8.0.0 Last Updated: 30th June 2021)
+(I-Grapher Version 8.0.0 Last Updated: 30th June 2021)(Note: Web browser may block the App due to unknown source installation, to run the app select keep file and continue)
 
 Independent value finder and Grapher (I-Grapher)
 Python program to convert input into python readable format and finding coordinates using Loops and "connecting the dots".
