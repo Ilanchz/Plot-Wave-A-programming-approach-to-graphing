@@ -1,5 +1,5 @@
-I-Grapher
-An Overview:
+I-Grapher-Overview:
+
 A simple python application with Tkinter GUI to plot explicit mathematics functions on a canvas along with built in methods to email for bug fixes(SMTP).
 
 
