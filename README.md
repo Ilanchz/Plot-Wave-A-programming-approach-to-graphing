@@ -1,4 +1,10 @@
 I-Grapher
+An Overview:
+A simple python application with Tkinter GUI to plot explicit mathematics functions on a canvas along with built in methods to email for bug fixes(SMTP).
+
+
+Notes on patches:
+
 (I-Grapher Version 8.0.0 Last Updated: 30th June 2021)(Note: Web browser may block the application due to unknown source installation, to run the it select keep file through advanced settings and continue)
 
 Independent value finder and Grapher (I-Grapher)
