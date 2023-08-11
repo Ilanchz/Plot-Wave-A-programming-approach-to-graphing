@@ -64,8 +64,7 @@ Have Fun! :)
 Recent Fixes:
 Improved Dark Mode.
 Improved Efficiency in CPU usage.
-Improved all Functions.
+Improved More Delay Inducing Functions.
 Improved Settings and Included more Features
 Improved Colour Selection
 Improved Loading Bar
-Shifting Origin
